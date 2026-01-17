@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.pexels.com/photos/35684097/pexels-photo-35684097.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+p{
+    color: coral;
+    /*font-size: 32px;*/
+    width: 50%;
+    height: 50px;
+    background-color: lightblue;
+    display: inline-block;
+}
+h2,h3{
+    color: aqua;
+}
+sub,sup{
+    font-size: 20px;
+    color: tan;
+}
+span{
+    /*font-size: 20px;*/
+    color: bisque;
+    width: 50%;
+    height: 50px;
+    background-color: lightblue;
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    object-fit: cover;
+}
