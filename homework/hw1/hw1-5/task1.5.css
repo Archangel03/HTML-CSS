@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://image.api.playstation.com/vulcan/ap/rnd/202010/2822/1AecTg1xPBgt4dEFi5t2dvgx.png");
+    background-size: cover;
+}
+img{
+    display: inline-block;
+}
+h3{
+    display: inline;
+    color: white;
+}
